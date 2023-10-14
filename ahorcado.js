@@ -10,6 +10,14 @@ function ahorcado(palabra) {
     while(vidas != 0){
         banderaLetraEncontrada = false;
         let letra = prompt("Palabra: " + palabraAdivinar + "\n" + "Te quedan " + vidas + " intentos" + "\n" + "Jugador 2, ingrese una letra:");
+        //let letrasprohibidas="0123456789"
+        //aca haces un for(let i=0;i<letrasprohidas.legth;i++)
+        //{
+            //if(letrasprohibidas[i]==letra)
+               // alert("NO SE ADMITEN NUMEROS!!!")
+        //}
+        //else
+        //{ ACA EL FOR DE ABAJO}
         for (let index = 0; index < palabraIngresada.length; index++) {
             if(letra == palabraIngresada[index]){
                 palabraAdivinar[index] = palabraIngresada[index];
