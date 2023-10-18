@@ -283,6 +283,9 @@ remote:      https://github.com/BrunoVapore/Tarea_Final_EDI/pull/new/RamaPablo
 remote: 
 To https://github.com/BrunoVapore/Tarea_Final_EDI.git
  * [new branch]      RamaPablo -> RamaPablo
+
+ consola log de pabloooooo.2222
+
  -------------------------------------------------------------------------------------------
 
   
