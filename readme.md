@@ -442,4 +442,38 @@ To https://github.com/BrunoVapore/Tarea_Final_EDI.git
  * [new branch]      RamaBruno -> RamaBruno
 
 C:\Users\BruGKnox\Desktop\Tarea_Final_EDI\Tarea_Final_EDI>
+
+--------------------Resultado del GIT LOG de Bruno------------------: 
+C:\Users\BruGKnox\Desktop\Tarea_Final_EDI\Tarea_Final_EDI>git log
+commit 26f36275a34cda64b438571a01da6a6148b4a461 (HEAD -> main, origin/main)
+Merge: 5876d1d d0a4eea
+Author: Bruno Giuliano Vapore <106129908+BrunoVapore@users.noreply.github.com>
+Date:   Wed Oct 18 15:13:36 2023 -0300
+
+    Merge pull request #2 from BrunoVapore/RamaBruno
+
+    Rama bruno
+
+commit d0a4eeaa199d26a232c29de708310252e47eb4d3
+Merge: a2952ef 5876d1d
+Author: Bruno Giuliano Vapore <106129908+BrunoVapore@users.noreply.github.com>
+Date:   Wed Oct 18 15:13:20 2023 -0300
+
+    Merge branch 'main' into RamaBruno
+
+commit 5876d1d4e5ab84ddccfe2558a0fff0677c68f451
+Merge: dd1d7c2 eaffcba
+Author: Bruno Giuliano Vapore <106129908+BrunoVapore@users.noreply.github.com>
+Date:   Wed Oct 18 15:11:44 2023 -0300
+
+    Merge pull request #3 from BrunoVapore/RamaSilvana
+
+    Rama silvana
+
+commit eaffcbab9393b41408d259591c5e099991ebdfe4
+Merge: 90c54a3 dd1d7c2
+Author: Bruno Giuliano Vapore <106129908+BrunoVapore@users.noreply.github.com>
+Date:   Wed Oct 18 15:11:30 2023 -0300
+
+C:\Users\BruGKnox\Desktop\Tarea_Final_EDI\Tarea_Final_EDI>
 ----------------------------------------------------------------------------------------------------
