@@ -339,6 +339,9 @@ remote:      https://github.com/BrunoVapore/Tarea_Final_EDI/pull/new/RamaPablo
 remote: 
 To https://github.com/BrunoVapore/Tarea_Final_EDI.git
  * [new branch]      RamaPablo -> RamaPablo
+
+ consola log de pabloooooo.2222
+
  -------------------------------------------------------------------------------------------
 
   
@@ -499,6 +502,9 @@ To https://github.com/BrunoVapore/Tarea_Final_EDI.git
 
 C:\Users\BruGKnox\Desktop\Tarea_Final_EDI\Tarea_Final_EDI>
 
+----------------------------------------------------------------------------------------------------
+
+
 --------------------Resultado del GIT LOG de Bruno------------------: 
 C:\Users\BruGKnox\Desktop\Tarea_Final_EDI\Tarea_Final_EDI>git log
 commit 26f36275a34cda64b438571a01da6a6148b4a461 (HEAD -> main, origin/main)
@@ -533,3 +539,4 @@ Date:   Wed Oct 18 15:11:30 2023 -0300
 
 C:\Users\BruGKnox\Desktop\Tarea_Final_EDI\Tarea_Final_EDI>
 ----------------------------------------------------------------------------------------------------
+
